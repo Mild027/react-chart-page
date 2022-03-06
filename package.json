@@ -1,6 +1,5 @@
 {
   "name": "chart-app",
-  "homepage": "https://mild027.github.io/react-chart-page.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
